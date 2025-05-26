@@ -7,7 +7,7 @@ This is an interactive AI-powered legal debate system where two AI chatbots—on
 
 ```bash
  #clone the repository
- git clone https://github.com/Prady007-1981/RAG-vs-Riff.git
+ git clone https://github.com/Pradyun-D/RAG-vs-Riff.git
 
 #create a virtual enviroment
 python -m venv .venv
