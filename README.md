@@ -1,4 +1,4 @@
-# Lexify-Task-2
+# RAG-vs-Riff
 
 This is an interactive AI-powered legal debate system where two AI chatbots—one using RAG (Retrieval-Augmented Generation) for factual legal arguments and the other relying on pure improvisation and loophole nonsense—face off in a courtroom-style battle.
 
@@ -7,7 +7,7 @@ This is an interactive AI-powered legal debate system where two AI chatbots—on
 
 ```bash
  #clone the repository
- git clone https://github.com/Prady007-1981/Lexify-Task-2.git
+ git clone https://github.com/Prady007-1981/RAG-vs-Riff.git
 
 #create a virtual enviroment
 python -m venv .venv
